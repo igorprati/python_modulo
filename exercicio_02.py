@@ -16,4 +16,4 @@ def teste(x):
 n1 = int(input(f"Digite um número: "))
 print(f"O número é: {teste(n1)}")  
 
-# asdasdasd
+# asdasdasd asdasd asdasd
